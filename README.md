@@ -1,3 +1,7 @@
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=e-alejo-r&label=Profile%20views&color=0e75b6&style=flat" alt="ealejor" />
+</p>
+
 <div align="center">
     <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
     <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm EDGAR</h1>
