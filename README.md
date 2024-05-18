@@ -60,12 +60,8 @@
 
 <div align="center">
  
-   <a href="https://www.linkedin.com/in/edgar-alejo-755091291" target="_blank">
-       <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-   </a>
-    
-   <a href="https://x.com/EDG_Alejo?s=09" target="_blank">
-       <img src=https://img.shields.io/badge/x-%2300acee.svg?color=000000&style=for-the-badge&logo=x&logoColor=white alt=x style="margin-bottom: 5px;" />
-   </a>
+
+   [![LinkedIn](https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ealejor)
+[![X Profile](https://img.shields.io/badge/x-%2300acee.svg?color=000000&style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/e_alejo_r)
 
 </div>
